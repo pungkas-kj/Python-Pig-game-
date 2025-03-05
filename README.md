@@ -8,5 +8,5 @@ tapi kalo dapet satu, skor yang udah ditampung hilang dan lanjut ke pemain berik
 
 begitu terus sampai salah satu pemain salah satu pemain sampai ke target skor yang ditentukan dan jadi pemenang.
 
-inspirated by https://youtu.be/21FnnGKSRZo?si=0SbVwA67e-CggjXQ
+inspired by https://youtu.be/21FnnGKSRZo?si=0SbVwA67e-CggjXQ
 
